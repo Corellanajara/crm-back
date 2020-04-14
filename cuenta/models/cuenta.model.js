@@ -7,6 +7,7 @@ datosEmpresa : Array,
 asignados : Array,
 creador : String,
 empresa : String,
+estado : Boolean,
 
 }, { timestamps: true }
 );
